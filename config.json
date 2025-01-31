@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "8126282527:AAFa5X5RU_WfjIG-16L8Q559LChNd1_DM-o",
+  "chatId": "6189025375",
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "Sennheiser",
+      "url": "https://market.yad2.co.il/search?q=sennheiser&min_price=150&max_price=1001&filters=[[%22Type%22,%22%D7%90%D7%95%D7%96%D7%A0%D7%99%D7%95%D7%AA%22]]"
     }
   ]
 }
